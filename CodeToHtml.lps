@@ -1,0 +1,157 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<CONFIG>
+  <ProjectSession>
+    <PathDelim Value="\"/>
+    <Version Value="9"/>
+    <BuildModes Active="Default"/>
+    <Units Count="18">
+      <Unit0>
+        <Filename Value="CodeToHtml.lpr"/>
+        <IsPartOfProject Value="True"/>
+        <UnitName Value="CodeToHtml"/>
+        <UsageCount Value="44"/>
+      </Unit0>
+      <Unit1>
+        <Filename Value="formedit.pas"/>
+        <IsPartOfProject Value="True"/>
+        <ComponentName Value="Form1"/>
+        <HasResources Value="True"/>
+        <ResourceBaseClass Value="Form"/>
+        <UnitName Value="FormEdit"/>
+        <IsVisibleTab Value="True"/>
+        <WindowIndex Value="0"/>
+        <TopLine Value="140"/>
+        <CursorPos X="51" Y="187"/>
+        <UsageCount Value="44"/>
+      </Unit1>
+      <Unit2>
+        <Filename Value="dmmain.pas"/>
+        <IsPartOfProject Value="True"/>
+        <ComponentName Value="DataModule1"/>
+        <HasResources Value="True"/>
+        <ResourceBaseClass Value="DataModule"/>
+        <UnitName Value="dmMain"/>
+        <WindowIndex Value="0"/>
+        <TopLine Value="1"/>
+        <CursorPos X="14" Y="25"/>
+        <UsageCount Value="44"/>
+      </Unit2>
+      <Unit3>
+        <Filename Value="..\lazarus\components\synedit\syneditexport.pas"/>
+        <UnitName Value="SynEditExport"/>
+        <WindowIndex Value="0"/>
+        <TopLine Value="259"/>
+        <CursorPos X="1" Y="270"/>
+        <UsageCount Value="9"/>
+      </Unit3>
+      <Unit4>
+        <Filename Value="..\lazarus\components\synedit\synexporthtml.pas"/>
+        <UnitName Value="SynExportHTML"/>
+        <WindowIndex Value="0"/>
+        <TopLine Value="350"/>
+        <CursorPos X="27" Y="101"/>
+        <UsageCount Value="9"/>
+      </Unit4>
+      <Unit5>
+        <Filename Value="..\lazarus\lcl\clipbrd.pp"/>
+        <UnitName Value="Clipbrd"/>
+        <WindowIndex Value="0"/>
+        <TopLine Value="224"/>
+        <CursorPos X="10" Y="239"/>
+        <UsageCount Value="9"/>
+      </Unit5>
+      <Unit6>
+        <Filename Value="..\lazarus\lcl\include\clipbrd.inc"/>
+        <WindowIndex Value="0"/>
+        <TopLine Value="99"/>
+        <CursorPos X="1" Y="122"/>
+        <UsageCount Value="9"/>
+      </Unit6>
+      <Unit7>
+        <Filename Value="..\lazarus\lcl\include\containedaction.inc"/>
+        <WindowIndex Value="0"/>
+        <TopLine Value="82"/>
+        <CursorPos X="1" Y="100"/>
+        <UsageCount Value="9"/>
+      </Unit7>
+      <Unit8>
+        <Filename Value="..\lazarus\components\synedit\synedit.pp"/>
+        <UnitName Value="SynEdit"/>
+        <WindowIndex Value="0"/>
+        <TopLine Value="7778"/>
+        <CursorPos X="1" Y="7739"/>
+        <UsageCount Value="10"/>
+      </Unit8>
+      <Unit9>
+        <Filename Value="..\lazarus\components\ideintf\menuintf.pas"/>
+        <UnitName Value="MenuIntf"/>
+        <WindowIndex Value="0"/>
+        <TopLine Value="28"/>
+        <CursorPos X="1" Y="1"/>
+        <UsageCount Value="9"/>
+      </Unit9>
+      <Unit10>
+        <Filename Value="..\lazarus\lcl\menus.pp"/>
+        <UnitName Value="Menus"/>
+        <WindowIndex Value="0"/>
+        <TopLine Value="145"/>
+        <CursorPos X="37" Y="168"/>
+        <UsageCount Value="10"/>
+      </Unit10>
+      <Unit11>
+        <Filename Value="..\lazarus\fpc\2.6.4\source\rtl\inc\objpash.inc"/>
+        <WindowIndex Value="0"/>
+        <TopLine Value="190"/>
+        <CursorPos X="21" Y="203"/>
+        <UsageCount Value="10"/>
+      </Unit11>
+      <Unit12>
+        <Filename Value="..\lazarus\components\synedit\synhighlightermulti.pas"/>
+        <UnitName Value="SynHighlighterMulti"/>
+        <WindowIndex Value="0"/>
+        <TopLine Value="1670"/>
+        <CursorPos X="1" Y="1685"/>
+        <UsageCount Value="10"/>
+      </Unit12>
+      <Unit13>
+        <Filename Value="..\lazarus\fpc\2.6.4\source\rtl\objpas\classes\collect.inc"/>
+        <WindowIndex Value="0"/>
+        <TopLine Value="1"/>
+        <CursorPos X="25" Y="5"/>
+        <UsageCount Value="10"/>
+      </Unit13>
+      <Unit14>
+        <Filename Value="..\lazarus\components\synedit\synedithighlighter.pp"/>
+        <UnitName Value="SynEditHighlighter"/>
+        <WindowIndex Value="0"/>
+        <TopLine Value="1360"/>
+        <CursorPos X="17" Y="1376"/>
+        <UsageCount Value="10"/>
+      </Unit14>
+      <Unit15>
+        <Filename Value="..\lazarus\components\lazutils\lazmethodlist.pas"/>
+        <UnitName Value="LazMethodList"/>
+        <WindowIndex Value="0"/>
+        <TopLine Value="64"/>
+        <CursorPos X="1" Y="1"/>
+        <UsageCount Value="10"/>
+      </Unit15>
+      <Unit16>
+        <Filename Value="..\lazarus\lcl\include\control.inc"/>
+        <WindowIndex Value="0"/>
+        <TopLine Value="588"/>
+        <CursorPos X="1" Y="612"/>
+        <UsageCount Value="11"/>
+      </Unit16>
+      <Unit17>
+        <Filename Value="..\lazarus\fpc\2.6.4\source\rtl\objpas\classes\classesh.inc"/>
+        <WindowIndex Value="0"/>
+        <TopLine Value="589"/>
+        <CursorPos X="11" Y="604"/>
+        <UsageCount Value="10"/>
+      </Unit17>
+    </Units>
+    <JumpHistory Count="0" HistoryIndex="-1"/>
+  </ProjectSession>
+  <EditorMacros Count="0"/>
+</CONFIG>
