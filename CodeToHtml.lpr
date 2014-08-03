@@ -7,7 +7,7 @@ uses {$IFDEF UNIX} {$IFDEF UseCThreads}
   Interfaces, // this includes the LCL widgetset
   Forms,
   FormEdit,
-  dmMain { you can add units after this };
+  dmMain;
 
 {$R *.res}
 
