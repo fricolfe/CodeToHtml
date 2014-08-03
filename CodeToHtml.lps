@@ -19,10 +19,13 @@
         <ResourceBaseClass Value="Form"/>
         <UnitName Value="FormEdit"/>
         <IsVisibleTab Value="True"/>
+        <EditorIndex Value="0"/>
         <WindowIndex Value="0"/>
         <TopLine Value="140"/>
         <CursorPos X="51" Y="187"/>
         <UsageCount Value="44"/>
+        <Loaded Value="True"/>
+        <LoadedDesigner Value="True"/>
       </Unit1>
       <Unit2>
         <Filename Value="dmmain.pas"/>
@@ -151,6 +154,9 @@
         <UsageCount Value="10"/>
       </Unit17>
     </Units>
+    <General>
+      <ActiveWindowIndexAtStart Value="0"/>
+    </General>
     <JumpHistory Count="0" HistoryIndex="-1"/>
   </ProjectSession>
   <EditorMacros Count="0"/>

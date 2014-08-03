@@ -9,7 +9,7 @@
         <Filename Value="CodeToHtml.lpr"/>
         <IsPartOfProject Value="True"/>
         <UnitName Value="CodeToHtml"/>
-        <UsageCount Value="43"/>
+        <UsageCount Value="44"/>
       </Unit0>
       <Unit1>
         <Filename Value="formedit.pas"/>
@@ -19,13 +19,10 @@
         <ResourceBaseClass Value="Form"/>
         <UnitName Value="FormEdit"/>
         <IsVisibleTab Value="True"/>
-        <EditorIndex Value="0"/>
         <WindowIndex Value="0"/>
-        <TopLine Value="159"/>
+        <TopLine Value="140"/>
         <CursorPos X="51" Y="187"/>
-        <UsageCount Value="43"/>
-        <Loaded Value="True"/>
-        <LoadedDesigner Value="True"/>
+        <UsageCount Value="44"/>
       </Unit1>
       <Unit2>
         <Filename Value="dmmain.pas"/>
@@ -34,13 +31,10 @@
         <HasResources Value="True"/>
         <ResourceBaseClass Value="DataModule"/>
         <UnitName Value="dmMain"/>
-        <EditorIndex Value="1"/>
         <WindowIndex Value="0"/>
         <TopLine Value="1"/>
         <CursorPos X="14" Y="25"/>
-        <UsageCount Value="43"/>
-        <Loaded Value="True"/>
-        <LoadedDesigner Value="True"/>
+        <UsageCount Value="44"/>
       </Unit2>
       <Unit3>
         <Filename Value="..\lazarus\components\synedit\syneditexport.pas"/>
@@ -157,9 +151,6 @@
         <UsageCount Value="10"/>
       </Unit17>
     </Units>
-    <General>
-      <ActiveWindowIndexAtStart Value="0"/>
-    </General>
     <JumpHistory Count="0" HistoryIndex="-1"/>
   </ProjectSession>
   <EditorMacros Count="0"/>
